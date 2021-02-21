@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: Zhiyao Yin
-email: zhiyao.yin.63@gmail.com
+email: zhiyao.yin.67@gmail.com
 description: Personal homepage for Zhiyao Yin, a laser spectropist, data enthusiast and hobby programmer.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
