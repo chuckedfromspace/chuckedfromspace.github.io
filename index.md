@@ -8,7 +8,7 @@ I grew up in the now (in)famous city of Wuhan in China
 and studied Naval Architecture at the Huazhong University of Science and Technology there.
 After that, I was trained as an experimentalist in laser spectroscopy and plasma physics at the [Nonequilibrium Thermodynamics Laboratory](https://netl.engineering.osu.edu/) at the Ohio State University in Columbus, OH, USA.
 I'm currently a research scientist at the German Aerospace Center (DLR) in Stuttgart, Germany.
-With my brilliant colleagues at the [Institute of Combustion Technology](https://www.dlr.de/vt/) at DLR, I'm working on new combustion systems that could handle low-carbon, sustainable fuels for both stationary gas turbines and aircraft engines.
+With my colleagues at the [Institute of Combustion Technology](https://www.dlr.de/vt/) at DLR, I'm working on new combustion systems that could handle low-carbon, sustainable fuels for both stationary gas turbines and aircraft engines.
 
 ## What I am interested in
 
@@ -18,7 +18,7 @@ I recently started an open source "blog"/knowledge base, [Pythonize](https://chu
 I'm also into:
 
 - Reading novels (Harper Lee, Kurt Vonnegut, David Mitchell, Robert A. Heinlein, Ted Chiang, Kazuo Ishiguro, J.K. Rowling, etc)
-- Jogging in the woods while listening to podcasts (Lage der Nation, Lex Fridman, innerFrench, etc)
+- Jogging in the woods while listening to podcasts
 - Hiking the [GR trails](https://en.wikipedia.org/wiki/GR_footpath) in France
 - Learning to draw with pen and ink
 
