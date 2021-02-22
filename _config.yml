@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Zhiyao Yin
+title: chuckedfromspace
 email: zhiyao.yin.67@gmail.com
 description: Personal homepage for Zhiyao Yin, a laser spectropist, data enthusiast and hobby programmer.
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -32,7 +32,8 @@ search: # true, false (default)
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins: # previsously gems
   - jekyll-sitemap
 
