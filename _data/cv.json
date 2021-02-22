@@ -1,29 +1,27 @@
 {
   "basics": {
-    "name": "Dugan Nash",
-    "label": "Very extravagant man",
+    "name": "Zhiyao Yin",
+    "label": "Laser spectropist, data enthusiast and hobby programmer",
     "picture": "",
-    "email": "dugan.hash@mailinator.com",
-    "phone": "(555) 555-5555",
-    "website": "https://towlettepettetuc.ci",
-    "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
+    "email": "zhiyao.yin.67@gmail.com",
+    "website": "https://chuckedfromspace.github.io",
+    "summary": "WIP",
     "location": {
-      "address": "123 Sesame Street",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Pfaffenwaldring 38-40",
+      "postalCode": "70569",
+      "city": "Stuttgart",
+      "countryCode": "DE"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "Towlette_Pettetucci",
-        "url": "https://twitter.com/Towlette_Pettetucci"
+        "network": "LinkedIn",
+        "username": "Zhiyao Yin",
+        "url": "https://www.linkedin.com/in/zhiyao-yin-5b5a084a"
       },
       {
-        "network": "SoundCloud",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
+        "network": "GitHub",
+        "username": "chuckedfrompsace",
+        "url": "https://github.com/chuckedfromspace"
       }
     ]
   },
@@ -32,7 +30,7 @@
       "company": "The Whip",
       "position": "CEO/President",
       "website": "https://thewh.ip",
-      "startDate": "2013-12-01",
+      "startDate": "2014-04-01",
       "endDate": "",
       "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
       "highlights": [
@@ -118,11 +116,6 @@
         "Unicorns"
       ]
     }
-  ],
-  "references": [
-    {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
   ]
+
 }
