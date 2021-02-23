@@ -4,13 +4,10 @@
     "label": "Laser spectropist, data enthusiast and hobby programmer",
     "picture": "",
     "email": "zhiyao.yin.67@gmail.com",
-    "website": "https://chuckedfromspace.github.io",
     "summary": "WIP",
     "location": {
-      "address": "Pfaffenwaldring 38-40",
-      "postalCode": "70569",
       "city": "Stuttgart",
-      "countryCode": "DE"
+      "countryCode": "Germany"
     },
     "profiles": [
       {
@@ -27,85 +24,100 @@
   },
   "work": [
     {
-      "company": "The Whip",
-      "position": "CEO/President",
-      "website": "https://thewh.ip",
+      "company": "German Aerospace Center (DLR)",
+      "position": "Research Scientist",
       "startDate": "2014-04-01",
       "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+      "summary": "",
       "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
-      "highlights": [
-        "Awarded a 'Helium Biscuit'"
+        "",
+        ""
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Ointment",
-      "area": "Digital Skillets",
+      "institution": "Ohio State University",
+      "area": "Mechanical Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2008",
+      "endDate": "2013",
+      "thesis": "Ignition"
+    },
+
+    {
+      "institution": "Huazhong University of Science and Technology",
+      "area": "Naval Architecture",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
-      ]
+      "startDate": "2004",
+      "endDate": "2008"
     }
   ],
   "awards": [
     {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
+      "title": "TensorFlow Developer Certificate",
+      "date": "",
+      "awarder": "Google TensorFlow",
+      "summary": ""
     }
   ],
   "publications": [
     {
-      "name": "Radio Julius",
-      "publisher": "Tanyo Lubbock",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+      "name": "",
+      "publisher": "Journal of Fluid Mechanics",
+      "releaseDate": "2020",
+      "website": "",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Audio Juggling",
-      "level": "Master",
+      "name": "Optical Diagnostics",
       "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
+        "Mie Scattering",
+        "Particle Image Velocimetry (PIV)",
+        "Laser Absorption Tomography",
+        "Coherent Anti-Stokes Raman Spectroscopy (CARS)",
+        "(Planar) Laser-induced Fluorescence (LIF)",
+        "(Microscopic) Laser Shadowgraphy",
+        "Thermometry with Phosphors",
+        "Emission Spectroscopy"
       ]
     },
     {
-      "name": "Bruschotti",
-      "level": "Satisfactory",
+      "name": "Machine Learning",
       "keywords": [
-        "Snow camp",
-        "Owl"
+        "TensorFlow",
+        "Scikit-Learn",
+        "Pandas"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python",
+        "Matlab",
+        "C++ (beginner)",
+        "JavaScript (beginner)"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Nonsense",
+      "language": "Chinese",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "telc C1"
+    },
+    {
+      "language": "French",
+      "fluency": "A2-B1"
     }
   ],
   "interests": [
@@ -117,5 +129,4 @@
       ]
     }
   ]
-
 }
