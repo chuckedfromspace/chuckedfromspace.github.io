@@ -152,16 +152,22 @@ main {
     }
 
     .date {
-      margin-bottom: 1rem;
+      margin-bottom: 0.5rem;
       color: tint($text-color, 40%);
       font-family: $monospace-font-family;
       font-size: 80%;
     }
     .area {
-      margin-bottom: 1rem;
+      margin-bottom: 1.5rem;
     }
     .courses-title,
-    .awarder,
+    .awarder {
+      margin-top: 0;
+      margin-bottom: 0rem;
+    }
+    .summary {
+      margin-top: 0;
+    }
     .publisher,
     .level {
       margin: 1rem 0 0;
