@@ -4,7 +4,7 @@
     "label": "Laser spectropist, data enthusiast and hobby programmer",
     "picture": "",
     "email": "zhiyao.yin.67@gmail.com",
-    "summary": "WIP",
+    "summary": "Experienced research scientist in the fields of plasma physics, combustion and aerodynamics. Skilled in laser diagnostics, spectroscopy, nonlinear optics and machine learning with Python.",
     "location": {
       "city": "Stuttgart",
       "countryCode": "Germany"
@@ -28,25 +28,24 @@
       "position": "Research Scientist",
       "startDate": "2014-04-01",
       "endDate": "",
-      "summary": "",
+      "summary": "Research focuses: combustion diagnostics, new combustion technologies, alternative fuels",
       "highlights": [
-        "",
-        ""
+        "Project subtask leader: \"Soot Processes and Radiation in Aeronautical Innovative Combustion (SOPRANO)\" (EU2020, Grant Agreement No.690724)",
+        "Principle Investigator: \"Understanding the turbulent flame dynamics of jet-stabilized gas turbine combustors\" (Helmholtz Postdoc Fellowship, Grant PD-112)"
       ]
     }
   ],
   "education": [
     {
-      "institution": "Ohio State University",
+      "institution": "Ohio State University, Columbus, OH, USA",
       "area": "Mechanical Engineering",
       "studyType": "Ph.D.",
       "startDate": "2008",
       "endDate": "2013",
       "thesis": "Ignition"
     },
-
     {
-      "institution": "Huazhong University of Science and Technology",
+      "institution": "Huazhong University of Science and Technology, Wuhan, Hubei, China",
       "area": "Naval Architecture",
       "studyType": "Bachelor",
       "startDate": "2004",
@@ -56,9 +55,21 @@
   "awards": [
     {
       "title": "TensorFlow Developer Certificate",
-      "date": "",
-      "awarder": "Google TensorFlow",
-      "summary": ""
+      "date": "2020",
+      "awarder": "TensorFlow Certificate Program",
+      "summary": "ID: 25378502"
+    },
+    {
+      "title": "DeepLearning.AI TensorFlow Developer Specialization",
+      "date": "2020",
+      "awarder": "Coursera",
+      "summary": "Computer vision, sequences, time series, natural language processing"
+    },
+    {
+      "title": "telc Deutsch C1",
+      "date": "2019",
+      "awarder": "telc GmbH - The European Language Certificates",
+      "summary": "Prädikat: Gut"
     }
   ],
   "publications": [
@@ -97,8 +108,7 @@
       "keywords": [
         "Python",
         "Matlab",
-        "C++ (beginner)",
-        "JavaScript (beginner)"
+        "C++ (beginner)"
       ]
     }
   ],
