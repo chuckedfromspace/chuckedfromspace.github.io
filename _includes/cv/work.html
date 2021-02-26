@@ -6,17 +6,20 @@
 
     <div class="entry-content">
       {% for w in cv.work %}
+        {% if w.position %}
+          <h4 class="position">{{ w.position }}</h4>
+        {% endif %}
         {% if w.company %}
-          <h3 class="name">
+          <div class="name">
+            <strong>
             {% if w.website %}
               <a href="{{ w.website }}">{{ w.company }}</a>
             {% else %}
               {{ w.company }}
+            </strong>
             {% endif %}
-          </h3>
-        {% endif %}
-        {% if w.position %}
-          <h4 class="position">{{ w.position }}</h4>
+          {% if w.loc %}<span class="loc">{{ w.loc }}</span>{% endif %}
+          </div>
         {% endif %}
         <div class="date">
           {% if w.startDate %}

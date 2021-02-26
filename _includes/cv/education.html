@@ -8,6 +8,7 @@
       {% for e in cv.education %}
         {% if e.institution %}
           <h4 class="institution">{{ e.institution }}</h4>
+          {% if e.loc %}<span class="loc">{{ e.loc }}</span>{% endif %}
         {% endif %}
         <div class="date">
           {% if e.startDate %}
@@ -29,6 +30,9 @@
               <li>{{ course }}</li>
             {% endfor %}
           </ul>
+        {% endif %}
+        {% if e.thesis %}
+          <div class="thesis"><strong>{{ e.thesis-type }}: </strong><ur class="thesis">{{ e.thesis }}</ur></div>
         {% endif %}
       {% endfor %}
     </div>
