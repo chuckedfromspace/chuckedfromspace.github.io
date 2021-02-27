@@ -28,7 +28,9 @@ q {
   }
 }
 
-code,
+code {
+  color: $accent-color;
+}
 kbd,
 samp,
 pre {
