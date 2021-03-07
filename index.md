@@ -17,7 +17,7 @@ I recently started an open source "blog"/knowledge base, [Pythonize](https://chu
 
 I'm also into:
 
-- Reading novels (Harper Lee, Kurt Vonnegut, David Mitchell, Robert A. Heinlein, Ted Chiang, Kazuo Ishiguro, J.K. Rowling, etc)
+- Reading novels
 - Jogging in the woods while listening to podcasts
 - Hiking the [GR trails](https://en.wikipedia.org/wiki/GR_footpath) in France
 - Learning to draw with pen and ink

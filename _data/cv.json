@@ -239,16 +239,7 @@
       "name": "Visualization",
       "keywords": [
         "Matplotlib",
-        "Plotly/Dash",
-        "Inkscape"
-      ]
-    },
-    {
-      "name": "Web Dev",
-      "keywords": [
-        "SCSS",
-        "Jekyll",
-        "Sphinx"
+        "Plotly/Dash"
       ]
     }
   ],
@@ -294,10 +285,9 @@
       "name": "Coding",
       "keywords": [
         "Python",
-        "Flask",
-        "Flutter",
-        "Node.js",
-        "C++"
+        "C++",
+        "Web dev",
+        "CFD"
       ]
     },
     {
