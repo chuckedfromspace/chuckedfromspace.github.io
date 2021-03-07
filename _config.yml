@@ -29,7 +29,7 @@ linkedin_username: zhiyao-yin-5b5a084a
 
 
 copyright: # "Zhiyao Yin"
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/assets/images/logo.png"
 search: # true, false (default)
 
 # Build settings
@@ -38,6 +38,7 @@ markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins: # previsously gems
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 
 # Exclude from processing.
