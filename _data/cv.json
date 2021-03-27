@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Zhiyao Yin, Ph.D.",
-    "label": "Laser spectropist, data enthusiast and hobby programmer",
+    "label": "Laser spectroscopist, data enthusiast and hobby programmer",
     "picture": "",
     "email": "zhiyao.yin.67@gmail.com",
     "summary": "Research scientist experienced in the fields of plasma physics, combustion and aerodynamics. Skilled in laser diagnostics, spectroscopy, nonlinear optics and machine learning with Python.",
@@ -129,6 +129,46 @@
       "summary": "2-year full graduate school fellowship in the Department of Mechanical and Aerospace Engineering"
     }
   ],
+  "skills": [
+    {
+      "name": "Experimental Systems",
+      "keywords": [
+        "High-energy Nd:YAG lasers",
+        "Dye lasers",
+        "kHz-rate solid-state and dye lasers",
+        "kHz-rate camera systems",
+        "Nanosecond pulse discharges"
+      ]
+    },
+    {
+      "name": "Optical Diagnostics",
+      "keywords": [
+        "Mie Scattering",
+        "Particle Image Velocimetry (PIV)",
+        "Laser Absorption Tomography",
+        "Coherent Anti-Stokes Raman Spectroscopy (CARS)",
+        "(Planar) Laser-induced Fluorescence (LIF)",
+        "(Microscopic) Laser Shadowgraphy",
+        "Phosphors Thermometry",
+        "Emission Spectroscopy"
+      ]
+    },
+    {
+      "name": "ML Frameworks",
+      "keywords": [
+        "TensorFlow",
+        "Scikit-Learn",
+        "Pandas"
+      ]
+    },
+    {
+      "name": "Visualization",
+      "keywords": [
+        "Matplotlib",
+        "Plotly/Dash"
+      ]
+    }
+  ],
   "publications": [
     {
       "name": "Time-frequency localization of intermittent dynamics in a bistable turbulent swirl flame",
@@ -203,46 +243,7 @@
       "summary": "Volumetric and surface discharges, plasma imaging, plasma kinetic modeling"
     }
   ],
-  "skills": [
-    {
-      "name": "Experimental Systems",
-      "keywords": [
-        "High-energy Nd:YAG lasers",
-        "Dye lasers",
-        "kHz-rate solid-state and dye lasers",
-        "kHz-rate camera systems",
-        "Nanosecond pulse discharges"
-      ]
-    },
-    {
-      "name": "Optical Diagnostics",
-      "keywords": [
-        "Mie Scattering",
-        "Particle Image Velocimetry (PIV)",
-        "Laser Absorption Tomography",
-        "Coherent Anti-Stokes Raman Spectroscopy (CARS)",
-        "(Planar) Laser-induced Fluorescence (LIF)",
-        "(Microscopic) Laser Shadowgraphy",
-        "Phosphors Thermometry",
-        "Emission Spectroscopy"
-      ]
-    },
-    {
-      "name": "ML Frameworks",
-      "keywords": [
-        "TensorFlow",
-        "Scikit-Learn",
-        "Pandas"
-      ]
-    },
-    {
-      "name": "Visualization",
-      "keywords": [
-        "Matplotlib",
-        "Plotly/Dash"
-      ]
-    }
-  ],
+
   "languages": [
     {
       "language": "Chinese",
