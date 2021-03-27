@@ -35,7 +35,7 @@ and reconstructing it in specific spectral ranges:
 <img src="https://mrpod.readthedocs.io/en/latest/_images/mov_pvc.gif" width="400px"/>
 <img src="https://mrpod.readthedocs.io/en/latest/_images/mov_tv.gif" width="400px"/>
 
-MRPOD could also be applied to extract sub-noise level features. Check out the [documentation](https://mrpod.readthedocs.io/) for more details and tutorials. Find out how to apply MRPOD to vecor/scalar fields from experiments and CFD in these two recent publications: [Yin2020](https://doi.org/10.1017/jfm.2019.762), [Grader2020](https://doi.org/10.1016/j.proci.2020.05.019).
+MRPOD could also be applied to extract sub-noise level features. Check out the [documentation](https://mrpod.readthedocs.io/) for more details and tutorials. Find out how to apply MRPOD to vector/scalar fields from experiments and CFD in these two recent publications: [Yin2020](https://doi.org/10.1017/jfm.2019.762), [Grader2020](https://doi.org/10.1016/j.proci.2020.05.019).
 
 ## [CARSpy](https://github.com/chuckedfromspace/carspy)
 
