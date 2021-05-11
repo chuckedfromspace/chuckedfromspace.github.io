@@ -1,7 +1,7 @@
 ---
-permalink: "/resume/"
+# permalink: "/resume/"
 title: Resume
-layout: cv
+layout: default
 # actions:
 #   - label: "Download as PDF"
 #     icon: pdf
