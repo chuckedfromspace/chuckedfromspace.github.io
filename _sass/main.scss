@@ -1,12 +1,17 @@
 .container .navbar-brand {
-  font-size: x-large;
+  font-size: 1.5rem;
 }
 
 .container .nav-item.nav-link {
-  font-size: larger;
+  font-size: 1rem;
 
 }
 
 h1 {
   color: red;
+  font-size: 3rem;
+}
+
+html {
+  scroll-behavior: smooth;
 }

@@ -27,3 +27,41 @@ I'm also into:
 To learn more about my personal and professional activities, check out my ongoing [projects](projects), my [resume](resume) and my [Google Scholar](https://scholar.google.com/citations?hl=de&user=_VHoPw0AAAAJ&view_op=list_works&sortby=pubdate) page.
 Feel free to
 [email me](mailto:zhiyao.yin.67@gmail.com) if you'd like to get in touch.
+
+As a latecomer, I only started learning Python in my very late 20s, mostly to replace the costly Matlab for processing experimental data. Programming and data science have since grown on me and have kept me busy in front of the computer during most of my free time (which have become especially excessive in this pandemic).
+
+I'm also into:
+
+- Reading novels
+- Jogging in the woods while listening to podcasts
+- Hiking the [GR trails](https://en.wikipedia.org/wiki/GR_footpath) in France
+- Learning to draw with pen and ink
+
+As a latecomer, I only started learning Python in my very late 20s, mostly to replace the costly Matlab for processing experimental data. Programming and data science have since grown on me and have kept me busy in front of the computer during most of my free time (which have become especially excessive in this pandemic).
+
+I'm also into:
+
+- Reading novels
+- Jogging in the woods while listening to podcasts
+- Hiking the [GR trails](https://en.wikipedia.org/wiki/GR_footpath) in France
+- Learning to draw with pen and ink
+
+As a latecomer, I only started learning Python in my very late 20s, mostly to replace the costly Matlab for processing experimental data. Programming and data science have since grown on me and have kept me busy in front of the computer during most of my free time (which have become especially excessive in this pandemic).
+
+I'm also into:
+
+- Reading novels
+- Jogging in the woods while listening to podcasts
+- Hiking the [GR trails](https://en.wikipedia.org/wiki/GR_footpath) in France
+- Learning to draw with pen and ink
+
+As a latecomer, I only started learning Python in my very late 20s, mostly to replace the costly Matlab for processing experimental data. Programming and data science have since grown on me and have kept me busy in front of the computer during most of my free time (which have become especially excessive in this pandemic).
+
+## Test
+
+I'm also into:
+
+- Reading novels
+- Jogging in the woods while listening to podcasts
+- Hiking the [GR trails](https://en.wikipedia.org/wiki/GR_footpath) in France
+- Learning to draw with pen and ink
