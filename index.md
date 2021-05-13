@@ -23,3 +23,5 @@ I'm also into:
 - Hiking the [GR trails](https://en.wikipedia.org/wiki/GR_footpath)
 - Learning to draw with pen, brush and ink
 - Learning new languages (Japanese and French at the moment)
+
+So if anything piques your interest on this site, don't hesitate to get in touch!
