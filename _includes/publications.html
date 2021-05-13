@@ -1,15 +1,16 @@
-<div id="publications" class="row">
-  <h2>Selected Publications</h2>
-  <hr>
+<div id="publications" class="row mb-3">
+  <div class="col-3"><h3 class="category">Selected Publications</h3></div>
+  <div class="w-100 d-block"></div>
   {% for p in cv.publications %}
-    <div class="col-1 text-end">
-        <h4>{{ p.releaseDate }}</h4>
+    <div class="col-1 offset-md-3">
+        <h4 class="sub-category">{{ p.releaseDate }}</h4>
     </div>
-    <div class="col-12 col-md-11">
+    <div class="col-12 col-md-8">
         <h4><a href="{{ p.website }}">{{ p.name }}</a></h4>
         <div class="authors">{{ p.authors | markdownify }}</div>
         <div class="fst-italic">{{ p.publisher }}</div>
-        <div class="text-capitalize">{{ p.summary | markdownify }}</div>
+        <div class="text-capitalize fw-light">{{ p.summary | markdownify }}</div>
     </div>
   {% endfor %}
+  <hr>
 </div>

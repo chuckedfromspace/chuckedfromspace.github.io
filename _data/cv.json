@@ -247,7 +247,7 @@
   "languages": [
     {
       "language": "Chinese",
-      "fluency": "Native speaker"
+      "fluency": "Native speaker (Mandarin)"
     },
     {
       "language": "English",
@@ -259,7 +259,11 @@
     },
     {
       "language": "French",
-      "fluency": "A2-B1"
+      "fluency": "(~A2-B1)"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "(~A1-A2)"
     }
   ],
   "interests": [
