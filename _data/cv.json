@@ -133,11 +133,11 @@
     {
       "name": "Experimental Systems",
       "keywords": [
-        "High-energy Nd:YAG lasers",
-        "Dye lasers",
-        "kHz-rate solid-state and dye lasers",
-        "kHz-rate camera systems",
-        "Nanosecond pulse discharges"
+        "High-Energy Nd:YAG Lasers",
+        "Dye Lasers",
+        "kHz-Rate Solid-State and Dye Lasers",
+        "kHz-Rate Camera Systems",
+        "Nanosecond Pulse Discharges"
       ]
     },
     {
@@ -147,14 +147,27 @@
         "Particle Image Velocimetry (PIV)",
         "Laser Absorption Tomography",
         "Coherent Anti-Stokes Raman Spectroscopy (CARS)",
-        "(Planar) Laser-induced Fluorescence (LIF)",
+        "(Planar) Laser-Induced Fluorescence (LIF)",
         "(Microscopic) Laser Shadowgraphy",
         "Phosphors Thermometry",
         "Emission Spectroscopy"
       ]
     },
     {
-      "name": "ML Frameworks",
+      "name": "Programming/Softwares",
+      "keywords": [
+        "Python",
+        "Matlab",
+        "LabView",
+        "OpenFOAM",
+        "VSCode",
+        "CATIA",
+        "DaVis (LaVision)",
+        "Inkscape"
+      ]
+    },
+    {
+      "name": "Machine Learning",
       "keywords": [
         "TensorFlow",
         "Scikit-Learn",
@@ -162,10 +175,12 @@
       ]
     },
     {
-      "name": "Visualization",
+      "name": "Web Dev",
       "keywords": [
-        "Matplotlib",
-        "Plotly/Dash"
+        "Plotly/Dash",
+        "Django",
+        "Jekyll",
+        "Sphinx"
       ]
     }
   ],
