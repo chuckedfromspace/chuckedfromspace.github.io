@@ -1,20 +1,37 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white mb-2">
   <div class="container">
     <a class="navbar-brand p-0 me-2" href="#">
-    <img src="/assets/images/logo.svg" alt="" height="40" class="d-inline-block align-text-middle">
+      <img src="/assets/images/logo.svg" alt="" height="40" class="d-inline-block align-text-middle">
     </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-        <a class="nav-item nav-link" href="#projects">Projects</a>
-        <a class="nav-item nav-link" href="#work">Work</a>
-        <a class="nav-item nav-link" href="#education">Education</a>
-        <a class="nav-item nav-link" href="#qualifications">Qualifications</a>
-        <a class="nav-item nav-link" href="#about">About</a>
-        {% comment %} <a class="nav-item nav-link" href="#contact">Contact</a> {% endcomment %}
-      </div>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="#">Projects</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Work</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Education</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Qualifications
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">Awards/Certificates</a></li>
+            <li><a class="dropdown-item" href="#">Skills</a></li>
+            <li><a class="dropdown-item" href="#">Languages</a></li>
+            <li><a class="dropdown-item" href="#">Selected Publications</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+      </ul>
     </div>
   </div>
 </nav>

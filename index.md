@@ -1,7 +1,7 @@
 ---
 layout: default
+title: chuckedfromspace
 ---
-# About
 
 I grew up in the now (in)famous city of Wuhan in China
 and studied Naval Architecture at the Huazhong University of Science and Technology there.
