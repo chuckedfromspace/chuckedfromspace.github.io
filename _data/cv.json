@@ -174,7 +174,7 @@
       "name": "Time-frequency localization of intermittent dynamics in a bistable turbulent swirl flame",
       "publisher": "Journal of Fluid Mechanics",
       "releaseDate": "2020",
-      "authors": "Z. Yin, M. Stöhr",
+      "authors": "**Z. Yin**, M. Stöhr",
       "website": "https://doi.org/10.1017/jfm.2019.762",
       "summary": "kHz-rate visualization of turbulence-flame interactions, Mutiresolution analysis, Wavelet-enhanced principle component analysis (PCA), Pattern recognition in image time series"
     },
@@ -182,7 +182,7 @@
       "name": "Wall temperature measurements in gas turbine combustors with thermographic phosphors",
       "publisher": "Journal of Engineering for Gas Turbines and Power",
       "releaseDate": "2019",
-      "authors": "P. Nau, Z. Yin, K.P. Geigle, W. Meier",
+      "authors": "P. Nau, **Z. Yin**, K.P. Geigle, W. Meier",
       "website": "https://doi.org/10.1115/1.4040716",
       "summary": "Sooting flames, surface thermometry under elevated pressure, quantification of heat loss through combustor chamber"
     },
@@ -190,7 +190,7 @@
       "name": "Experimental study of transient mechanisms of bistable flame shape transitions in a swirl combustor",
       "publisher": "Journal of Engineering for Gas Turbines and Power",
       "releaseDate": "2018",
-      "authors": "M. Stöhr, K. Oberleithner, M. Sieber, Z. Yin, W. Meier",
+      "authors": "M. Stöhr, K. Oberleithner, M. Sieber, **Z. Yin**, W. Meier",
       "website": "https://doi.org/10.1115/1.4037724",
       "summary": "Quantitative analysis of flame bistability, Spectral proper orthogonal decomposition (SPOD)"
     },
@@ -198,7 +198,7 @@
       "name": "Responses of combustor surface temperature to flame shape transitions in a turbulent bistable swirl flame",
       "publisher": "Experimental Thermal and Fluid Science",
       "releaseDate": "2017",
-      "authors": "Z. Yin, P. Nau, W. Meier",
+      "authors": "**Z. Yin**, P. Nau, W. Meier",
       "website": "https://doi.org/10.1016/j.expthermflusci.2016.11.004",
       "summary": "kHz-rate surface thermometry and flame visualization, phosphor thermometry, boundary conditions on combustion stability"
     },
@@ -206,7 +206,7 @@
       "name": "Plasma flow reactor studies of H2/O2/Ar kinetics",
       "publisher": "Combustion and Flame",
       "releaseDate": "2016",
-      "authors": "N. Tsolas, K. Togai, Z. Yin, K. Frederickson, R.A. Yetter, W.R. Lempert, I.V. Adamovich",
+      "authors": "N. Tsolas, K. Togai, **Z. Yin**, K. Frederickson, R.A. Yetter, W.R. Lempert, I.V. Adamovich",
       "website": "https://doi.org/10.1016/j.combustflame.2015.11.021",
       "summary": "Plasma flow reactor, in-situ and ex-situ diagnostics, plasma kinetics"
     },
@@ -214,7 +214,7 @@
       "name": "Time-resolved radical species and temperature distributions in an Ar-O2-H2 mixture excited by a nanosecond pulse discharge",
       "publisher": "Proceedings of the Combustion Institute",
       "releaseDate": "2015",
-      "authors": "Z. Yin, Z. Eckert, I.V. Adamovich, W.R. Lempert",
+      "authors": "**Z. Yin**, Z. Eckert, I.V. Adamovich, W.R. Lempert",
       "website": "https://doi.org/10.1016/j.proci.2014.05.073",
       "summary": "Two-photon laser-induced fluorescence (TALIF), quantitative species concentrations and gas temperature, 1-D plasma kinetics modeling"
     },
@@ -222,7 +222,7 @@
       "name": "Effects of signal corrections on measurements of temperature and OH concentrations using laser-induced fluorescence",
       "publisher": "Applied Physics B",
       "releaseDate": "2014",
-      "authors": "Z. Yin, C.D. Carter, W.R. Lempert",
+      "authors": "**Z. Yin**, C.D. Carter, W.R. Lempert",
       "website": "https://doi.org/10.1007/s00340-014-5886-y",
       "summary": "Quantitative OH laser-induced fluorescence (LIF), beam attenuation, signal trapping, LIF modeling"
     },
@@ -230,7 +230,7 @@
       "name": "Measurements of temperature and hydroxyl radical generation/decay in lean fuel-air mixtures excited by a repetitively pulsed nanosecond discharge",
       "publisher": "Combustion and Flame",
       "releaseDate": "2013",
-      "authors": "Z. Yin, A. Montello, C.D. Carter, W.R. Lempert, I.V. Adamovich",
+      "authors": "**Z. Yin**, A. Montello, C.D. Carter, W.R. Lempert, I.V. Adamovich",
       "website": "https://doi.org/10.1016/j.combustflame.2013.03.015",
       "summary": "Picosecond coherent anti-stokes Raman spectroscopy (CARS), quantitative OH laser-induced fluorescence (LIF), nanosecond pulse discharge, plasma-assisted oxidation"
     },
@@ -238,7 +238,7 @@
       "name": "Measurements and kinetic modeling of energy coupling in volume and surface nanosecond pulse discharges",
       "publisher": "Plasma Sources Science and Technology",
       "releaseDate": "2012",
-      "authors": "K. Takashima, Z. Yin, I.V. Adamovich",
+      "authors": "K. Takashima, **Z. Yin**, I.V. Adamovich",
       "website": "https://doi.org/10.1088/0963-0252/22/1/015013",
       "summary": "Volumetric and surface discharges, plasma imaging, plasma kinetic modeling"
     }

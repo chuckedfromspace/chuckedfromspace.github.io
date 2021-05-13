@@ -1,0 +1,15 @@
+<div id="publications" class="row">
+  <h2>Selected Publications</h2>
+  <hr>
+  {% for p in cv.publications %}
+    <div class="col-1 text-end">
+        <h4>{{ p.releaseDate }}</h4>
+    </div>
+    <div class="col-11">
+        <h4><a href="{{ p.website }}">{{ p.name }}</a></h4>
+        <div class="authors">{{ p.authors | markdownify }}</div>
+        <div class="fst-italic">{{ p.publisher }}</div>
+        <div class="text-capitalize">{{ p.summary | markdownify }}</div>
+    </div>
+  {% endfor %}
+</div>

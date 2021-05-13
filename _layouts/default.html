@@ -3,6 +3,8 @@
   {% include header.html %}
   <body>
     <div class="container">
+      {% assign cv = site.data.cv %}
+      {% include publications.html %}
       {% include about.html %}
       {% include footer.html %}
     </div>
