@@ -9,6 +9,26 @@
   },
   "projects": [
     {
+      "title": "CARSPY",
+      "repo": "carspy",
+      "docs": "carspy",
+      "img-url": "https://raw.githubusercontent.com/chuckedfromspace/carspy-dash/main/assets/demo1.gif",
+      "summary": "A python module for synthesizing and fitting experimental coherent anti-Stokes Raman (CARS) spectra.",
+      "highlights": [
+        "Comprehensive physical models: G-matrix, Expoential Gap Model, Voigt line profiles, T-K convolution",
+        "Optional chemical equilibrium (with Cantera)",
+        "Optional vibrational and rotational nonequilibrium",
+        "Extendable for various species and CARS configurations"
+      ],
+      "keywords": [
+        "CARS",
+        "Spectroscopy",
+        "Numpy",
+        "Scipy",
+        "Cantera"
+      ]
+    },
+    {
       "title": "MRPOD",
       "repo": "mrpod",
       "docs": "mrpod",

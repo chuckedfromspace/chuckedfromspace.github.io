@@ -2,10 +2,10 @@
   <div><h3 class="category">Work</h3></div>
   <div class="w-100 d-block"></div>
   {% for p in cv.work %}
-    <div class="col-12 col-md-1 offset-md-3">
+    <div class="col-12 col-lg-1 offset-lg-2">
         <h4 class="sub-category">{{ p.startDate }} - {{ p.endDate }}</h4>
     </div>
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-lg-9">
       <h4 class="sub-category">{{ p.position }}</h4>
       <div>{{ p.company }}</div>
       <div class="fw-light">{{ p.loc }}</div>
