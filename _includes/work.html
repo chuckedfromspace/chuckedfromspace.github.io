@@ -1,0 +1,21 @@
+<div id="work" class="row mb-3">
+  <h3 class="category">Work</h3>
+  <div class="w-100 d-block"></div>
+  {% for p in cv.work %}
+    <div class="col-12 col-lg-1 offset-lg-2">
+        <h4 class="sub-category">{{ p.startDate }} - {{ p.endDate }}</h4>
+    </div>
+    <div class="col-12 col-lg-9">
+      <h4 class="sub-category">{{ p.position }}</h4>
+      <div>{{ p.company }}</div>
+      <div class="fw-light">{{ p.loc }}</div>
+      <div>{{ p.summary }}</div>
+      <ul>
+        {% for highlight in p.highlights %}
+          <li>{{ highlight }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+  <hr>
+</div>

@@ -1,0 +1,13 @@
+<div id="skills" class="row mb-3">
+  <h3 class="category">Skills</h3>
+  <div class="w-100 d-none d-md-block"></div>
+  <div class="col-12 col-lg-10 offset-lg-2">
+    {% for p in cv.skills %}
+      <div>
+        <h4 class="sub-category mb-0">{{ p.name }}</h4>
+        <p>{{ p.keywords | array_to_sentence_string }}</p>
+      </div>
+    {% endfor %}
+  </div>
+  <hr>
+</div>

@@ -1,0 +1,343 @@
+{
+  "basics": {
+    "name": "Zhiyao Yin, Ph.D.",
+    "label": "Laser spectroscopist, data enthusiast and hobby programmer",
+    "location": "Stuttgart, Germany"
+  },
+  "projects": [
+    {
+      "title": "CARSpy",
+      "repo": "carspy",
+      "docs": "carspy",
+      "external": "https://carspy.herokuapp.com/",
+      "external-title": "Carspy-Webapp",
+      "img-url": "https://raw.githubusercontent.com/chuckedfromspace/carspy-dash/main/assets/demo1.gif",
+      "summary": "A python module for synthesizing and fitting experimental coherent anti-Stokes Raman (CARS) spectra.",
+      "highlights": [
+        "Comprehensive physical models: G-matrix, Expoential Gap Model, Voigt line profiles, T-K convolution",
+        "Optional chemical equilibrium (with Cantera)",
+        "Optional vibrational and rotational nonequilibrium",
+        "Extendable for various species and CARS configurations"
+      ],
+      "keywords": [
+        "CARS",
+        "Spectroscopy",
+        "Numpy",
+        "Scipy",
+        "Cantera"
+      ]
+    },
+    {
+      "title": "MRPOD",
+      "repo": "mrpod",
+      "docs": "mrpod",
+      "external": "https://doi.org/10.1017/jfm.2019.762",
+      "external-title": "Publication",
+      "img-url": "/assets/images/proj-mrpod.gif",
+      "summary": "A python module for Multiresolution Proper Orthogonal Decomposition (MRPOD) of multidimensional image time series.",
+      "highlights": [
+        "2D discrete wavelet decomposition and reconstruction",
+        "Principle Component Analysis (PCA) in well-defined frequency domain"
+      ],
+      "keywords": [
+        "Discrete Wavelet Transform",
+        "PCA",
+        "Numpy"
+      ]
+    },
+    {
+      "title": "PyLAT",
+      "repo": "pylat",
+      "img-url": "https://raw.githubusercontent.com/chuckedfromspace/pylat/main/assets/pylat_example.png",
+      "summary": "A python module for tomographic reconstruction of 1-D two-color laser absorption with irregularly arranged diode lasers.",
+      "highlights": [
+        "Classical reconstruction methods (e.g.  ART, SIRT, Landweber)",
+        "Tikhonov regularization",
+        "Neural network (e.g., CNN) based reconstruction (planned)"
+      ],
+      "keywords": [
+        "Tomography",
+        "Spectroscopy",
+        "Machine Learning",
+        "Numpy",
+        "Scipy"
+      ]
+    },
+    {
+      "title": "Pythonize",
+      "repo": "pythonize",
+      "external": "https://chuckedfrom.space/pythonize",
+      "external-title": "Jupyter-book",
+      "img-url": "/assets/images/proj-pythonize.gif",
+      "summary": "A blog and knowledge base for data crunching and visualization in Python.",
+      "highlights": [
+        "Tutorial-style blog posts based on executable Jupyter Notebooks",
+        "Central topics include laser spectroscopy, fluid dynamics, machine learning and finance"
+      ],
+      "keywords": [
+        "Jupyter Book",
+        "Matplotlib",
+        "Plotly",
+        "Pandas",
+        "Numpy",
+        "Scipy",
+        "Scikit-Learn",
+        "TensorFlow"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "German Aerospace Center (DLR)",
+      "loc": "Stuttgart, Germany",
+      "position": "Research Scientist",
+      "startDate": "2014",
+      "endDate": "",
+      "summary": "Combustion diagnostics, data analytics:",
+      "highlights": [
+        "Highspeed laser diagnostics for the quantification of temperature, velocity and species concentrations in next-gen combustion systems",
+        "Image data processing and feature extraction based on machine learning",
+        "Project subtask lead: \"Soot Processes and Radiation in Aeronautical Innovative Combustion (SOPRANO)\" (EU2020, Grant Agreement No.690724)",
+        "Principle Investigator: \"Understanding the turbulent flame dynamics of jet-stabilized gas turbine combustors\" (Helmholtz Postdoc Fellowship, Grant PD-112)"
+      ]
+    },
+    {
+      "company": "Ohio State University",
+      "loc": "Columbus, OH, USA",
+      "position": "PostDoc",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "Quantitative laser spectroscopies for a liquid/gas plasma reactor"
+    },
+    {
+      "company": "Ohio State University",
+      "loc": "Columbus, OH, USA",
+      "position": "Research Associate",
+      "startDate": "2008",
+      "endDate": "2013",
+      "summary": "Plasma physics, plasma-assisted combustion:",
+      "highlights": [
+        "Kinetics studies of nanosecond discharges",
+        "Project subtask lead: \"Fundamental aspects of plasma-assisted combustion\" (Air Force Office of Scientific Research)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ohio State University",
+      "area": "Mechanical Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2008",
+      "endDate": "2013",
+      "loc": "Columbus, OH, USA",
+      "thesis-type": "Dissertation",
+      "thesis": "Fuel oxidation and ignition by nanosecond pulse discharge at elevated temperatures"
+    },
+    {
+      "institution": "Huazhong University of Science and Technology",
+      "area": "Naval Architecture",
+      "studyType": "B.S.",
+      "startDate": "2004",
+      "endDate": "2008",
+      "loc": "Wuhan, Hubei, China",
+      "thesis-type": "Thesis",
+      "thesis": "2D Simulation of supercavitation on a NACA0012 airfoil"
+    }
+  ],
+  "awards": [
+    {
+      "title": "TensorFlow Developer Certificate",
+      "date": "2020",
+      "awarder": "TensorFlow Certificate Program",
+      "summary": "ID: 25378502"
+    },
+    {
+      "title": "DeepLearning.AI TensorFlow Developer Specialization",
+      "date": "2020",
+      "awarder": "Coursera",
+      "summary": "Computer vision, Sequences, Time Series, Natural Language Processing"
+    },
+    {
+      "title": "telc Deutsch C1",
+      "date": "2019",
+      "awarder": "telc GmbH - The European Language Certificates",
+      "summary": "Prädikat: Gut"
+    },
+    {
+      "title": "Helmholtz Postdoc",
+      "date": "2014",
+      "awarder": "Helmholtz-Gemeinschaft Deutscher Forschungszentren",
+      "summary": "3-year program with 150 k€ funding"
+    },
+    {
+      "title": "Distinguished Paper",
+      "date": "2014",
+      "awarder": "35th International Symposium on Combustion",
+      "summary": "DOI: 10.1016/j.proci.2014.05.073"
+    },
+    {
+      "title": "Distinguished Paper",
+      "date": "2012",
+      "awarder": "34th International Symposium on Combustion",
+      "summary": "DOI: 10.1016/j.proci.2012.07.015"
+    },
+    {
+      "title": "Distinguished University Fellowship",
+      "date": "2008",
+      "awarder": "Ohio State University",
+      "summary": "2-year full graduate school fellowship in the Department of Mechanical and Aerospace Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Experimental Systems",
+      "keywords": [
+        "High-Energy Nd:YAG Lasers",
+        "Dye Lasers",
+        "kHz-Rate Solid-State and Dye Lasers",
+        "kHz-Rate Camera Systems",
+        "Nanosecond Pulse Discharges"
+      ]
+    },
+    {
+      "name": "Optical Diagnostics",
+      "keywords": [
+        "Mie Scattering",
+        "Particle Image Velocimetry (PIV)",
+        "Laser Absorption Tomography",
+        "Coherent Anti-Stokes Raman Spectroscopy (CARS)",
+        "(Planar) Laser-Induced Fluorescence (LIF)",
+        "(Microscopic) Laser Shadowgraphy",
+        "Phosphors Thermometry",
+        "Emission Spectroscopy"
+      ]
+    },
+    {
+      "name": "Programming/Softwares",
+      "keywords": [
+        "Python",
+        "Matlab",
+        "LabView",
+        "OpenFOAM",
+        "VSCode",
+        "CATIA",
+        "DaVis (LaVision)",
+        "Inkscape"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "TensorFlow",
+        "Scikit-Learn",
+        "Pandas"
+      ]
+    },
+    {
+      "name": "Web Dev",
+      "keywords": [
+        "Plotly/Dash",
+        "Django",
+        "Jekyll",
+        "Sphinx"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Time-frequency localization of intermittent dynamics in a bistable turbulent swirl flame",
+      "publisher": "Journal of Fluid Mechanics",
+      "releaseDate": "2020",
+      "authors": "**Z. Yin**, M. Stöhr",
+      "website": "https://doi.org/10.1017/jfm.2019.762",
+      "summary": "kHz-rate visualization of turbulence-flame interactions, Mutiresolution analysis, Wavelet-enhanced principle component analysis (PCA), Pattern recognition in image time series"
+    },
+    {
+      "name": "Wall temperature measurements in gas turbine combustors with thermographic phosphors",
+      "publisher": "Journal of Engineering for Gas Turbines and Power",
+      "releaseDate": "2019",
+      "authors": "P. Nau, **Z. Yin**, K.P. Geigle, W. Meier",
+      "website": "https://doi.org/10.1115/1.4040716",
+      "summary": "Sooting flames, surface thermometry under elevated pressure, quantification of heat loss through combustor chamber"
+    },
+    {
+      "name": "Experimental study of transient mechanisms of bistable flame shape transitions in a swirl combustor",
+      "publisher": "Journal of Engineering for Gas Turbines and Power",
+      "releaseDate": "2018",
+      "authors": "M. Stöhr, K. Oberleithner, M. Sieber, **Z. Yin**, W. Meier",
+      "website": "https://doi.org/10.1115/1.4037724",
+      "summary": "Quantitative analysis of flame bistability, Spectral proper orthogonal decomposition (SPOD)"
+    },
+    {
+      "name": "Responses of combustor surface temperature to flame shape transitions in a turbulent bistable swirl flame",
+      "publisher": "Experimental Thermal and Fluid Science",
+      "releaseDate": "2017",
+      "authors": "**Z. Yin**, P. Nau, W. Meier",
+      "website": "https://doi.org/10.1016/j.expthermflusci.2016.11.004",
+      "summary": "kHz-rate surface thermometry and flame visualization, phosphor thermometry, boundary conditions on combustion stability"
+    },
+    {
+      "name": "Plasma flow reactor studies of H2/O2/Ar kinetics",
+      "publisher": "Combustion and Flame",
+      "releaseDate": "2016",
+      "authors": "N. Tsolas, K. Togai, **Z. Yin**, K. Frederickson, R.A. Yetter, W.R. Lempert, I.V. Adamovich",
+      "website": "https://doi.org/10.1016/j.combustflame.2015.11.021",
+      "summary": "Plasma flow reactor, in-situ and ex-situ diagnostics, plasma kinetics"
+    },
+    {
+      "name": "Time-resolved radical species and temperature distributions in an Ar-O2-H2 mixture excited by a nanosecond pulse discharge",
+      "publisher": "Proceedings of the Combustion Institute",
+      "releaseDate": "2015",
+      "authors": "**Z. Yin**, Z. Eckert, I.V. Adamovich, W.R. Lempert",
+      "website": "https://doi.org/10.1016/j.proci.2014.05.073",
+      "summary": "Two-photon laser-induced fluorescence (TALIF), quantitative species concentrations and gas temperature, 1-D plasma kinetics modeling"
+    },
+    {
+      "name": "Effects of signal corrections on measurements of temperature and OH concentrations using laser-induced fluorescence",
+      "publisher": "Applied Physics B",
+      "releaseDate": "2014",
+      "authors": "**Z. Yin**, C.D. Carter, W.R. Lempert",
+      "website": "https://doi.org/10.1007/s00340-014-5886-y",
+      "summary": "Quantitative OH laser-induced fluorescence (LIF), beam attenuation, signal trapping, LIF modeling"
+    },
+    {
+      "name": "Measurements of temperature and hydroxyl radical generation/decay in lean fuel-air mixtures excited by a repetitively pulsed nanosecond discharge",
+      "publisher": "Combustion and Flame",
+      "releaseDate": "2013",
+      "authors": "**Z. Yin**, A. Montello, C.D. Carter, W.R. Lempert, I.V. Adamovich",
+      "website": "https://doi.org/10.1016/j.combustflame.2013.03.015",
+      "summary": "Picosecond coherent anti-stokes Raman spectroscopy (CARS), quantitative OH laser-induced fluorescence (LIF), nanosecond pulse discharge, plasma-assisted oxidation"
+    },
+    {
+      "name": "Measurements and kinetic modeling of energy coupling in volume and surface nanosecond pulse discharges",
+      "publisher": "Plasma Sources Science and Technology",
+      "releaseDate": "2012",
+      "authors": "K. Takashima, **Z. Yin**, I.V. Adamovich",
+      "website": "https://doi.org/10.1088/0963-0252/22/1/015013",
+      "summary": "Volumetric and surface discharges, plasma imaging, plasma kinetic modeling"
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker (Mandarin)"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "telc C1"
+    },
+    {
+      "language": "French",
+      "fluency": "(~A2-B1)"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "(~A1-A2)"
+    }
+  ]
+}

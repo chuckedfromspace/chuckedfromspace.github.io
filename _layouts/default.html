@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  {% include header.html %}
+  <body>
+    <div class="container">
+      {% assign cv = site.data.cv %}
+      {% include landing.html %}
+      {% include projects.html %}
+      {% include work.html %}
+      {% include education.html %}
+      {% include awards.html %}
+      {% include skills.html %}
+      {% include languages.html %}
+      {% include publications.html %}
+      {% include about.html %}
+      {% include footer.html %}
+    </div>
+  </body>
+</html>

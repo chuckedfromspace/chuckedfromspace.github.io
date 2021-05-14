@@ -1,0 +1,15 @@
+<div id="awards" class="row mb-3">
+  <h3 class="category">Awards/Certificates</h3>
+  <div class="w-100 d-block"></div>
+  {% for p in cv.awards %}
+    <div class="col-1 offset-lg-2">
+      <h4 class="sub-category">{{ p.date }}</h4>
+    </div>
+    <div class="col-12 col-lg-9">
+      <h4>{{ p.title }}</h4>
+      <div>{{ p.awarder }}</div>
+      <div class="fw-light">{{ p.summary | markdownify }}</div>
+    </div>
+  {% endfor %}
+  <hr>
+</div>
