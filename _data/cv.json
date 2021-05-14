@@ -11,12 +11,19 @@
     {
       "title": "MRPOD",
       "repo": "mrpod",
-      "rtd": "mrpod",
-      "doi": "10.1017/jfm.2019.762",
+      "docs": "mrpod",
+      "external": "https://doi.org/10.1017/jfm.2019.762",
+      "external-title": "Publication",
+      "img-url": "/assets/images/proj-mrpod.png",
       "summary": "A python module for Multiresolution Proper Orthogonal Decomposition (MRPOD) of multidimensional image time series.",
       "highlights": [
         "2D discrete wavelet decomposition and reconstruction",
         "Principle Component Analysis (PCA) in well-defined frequency domain"
+      ],
+      "keywords": [
+        "Discrete Wavelet Transform",
+        "PCA",
+        "Numpy"
       ]
     }
   ],
