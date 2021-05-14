@@ -32,7 +32,7 @@
       "company": "German Aerospace Center (DLR)",
       "loc": ", Stuttgart, Germany",
       "position": "Research Scientist",
-      "startDate": "2014-04",
+      "startDate": "2014",
       "endDate": "",
       "summary": "Combustion diagnostics, data analytics:",
       "highlights": [
@@ -46,16 +46,16 @@
       "company": "Ohio State University",
       "loc": ", Columbus, OH, USA",
       "position": "PostDoc",
-      "startDate": "2013-07",
-      "endDate": "2014-03",
+      "startDate": "2013",
+      "endDate": "2014",
       "summary": "Quantitative laser spectroscopies for a liquid/gas plasma reactor"
     },
     {
       "company": "Ohio State University",
       "loc": ", Columbus, OH, USA",
       "position": "Research Associate",
-      "startDate": "2008-09",
-      "endDate": "2013-07",
+      "startDate": "2008",
+      "endDate": "2013",
       "summary": "Plasma physics, plasma-assisted combustion:",
       "highlights": [
         "Kinetics studies of nanosecond discharges",
