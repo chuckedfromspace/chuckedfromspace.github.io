@@ -3,13 +3,13 @@
   <div class="w-100 d-block"></div>
   {% for p in cv.publications %}
     <div class="col-1 offset-md-3">
-        <h4 class="sub-category">{{ p.releaseDate }}</h4>
+      <h4 class="sub-category">{{ p.releaseDate }}</h4>
     </div>
     <div class="col-12 col-md-8">
-        <h4><a href="{{ p.website }}">{{ p.name }}</a></h4>
-        <div class="authors">{{ p.authors | markdownify }}</div>
-        <div class="fst-italic">{{ p.publisher }}</div>
-        <div class="text-capitalize fw-light">{{ p.summary | markdownify }}</div>
+      <h4><a href="{{ p.website }}">{{ p.name }}</a></h4>
+      <div class="authors">{{ p.authors | markdownify }}</div>
+      <div class="fst-italic">{{ p.publisher }}</div>
+      <div class="text-capitalize fw-light">{{ p.summary | markdownify }}</div>
     </div>
   {% endfor %}
   <hr>

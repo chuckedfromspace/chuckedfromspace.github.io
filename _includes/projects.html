@@ -1,5 +1,29 @@
 <div id="projects" class="row mb-3">
   <div><h3 class="category">Projects</h3></div>
   <div class="w-100 d-block"></div>
+  {% for p in cv.projects %}
+    <div class="col-12 col-md-1 offset-md-3">
+        <h4 class="sub-category">{{ p.title }}</h4>
+    </div>
+    <div class="col-12 col-md-8">
+      <ul class="icons ps-0">
+        <li>
+          <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}/{{ p.repo }}" class="button button--sacnite button--round-l">
+            <i class="fab fa-github" title="Repository"></i>
+          </a>
+        </li>
+      </ul>
+
+        <h4 class="sub-category">{{ p.position }}</h4>
+        <div>{{ p.company }}</div>
+        <div class="fw-light">{{ p.loc }}</div>
+        <div>{{ p.summary }}</div>
+        <ul>
+          {% for highlight in p.highlights %}
+            <li>{{ highlight }}</li>
+          {% endfor %}
+        </ul>
+    </div>
+  {% endfor %}
   <hr>
 </div>

@@ -6,15 +6,15 @@
         <h4 class="sub-category">{{ p.startDate }} - {{ p.endDate }}</h4>
     </div>
     <div class="col-12 col-md-8">
-        <h4 class="sub-category">{{ p.position }}</h4>
-        <div>{{ p.company }}</div>
-        <div class="fw-light">{{ p.loc }}</div>
-        <div>{{ p.summary }}</div>
-        <ul>
-          {% for highlight in p.highlights %}
-            <li>{{ highlight }}</li>
-          {% endfor %}
-        </ul>
+      <h4 class="sub-category">{{ p.position }}</h4>
+      <div>{{ p.company }}</div>
+      <div class="fw-light">{{ p.loc }}</div>
+      <div>{{ p.summary }}</div>
+      <ul>
+        {% for highlight in p.highlights %}
+          <li>{{ highlight }}</li>
+        {% endfor %}
+      </ul>
     </div>
   {% endfor %}
   <hr>

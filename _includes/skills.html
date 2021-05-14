@@ -4,8 +4,8 @@
   <div class="col-12 col-md-9 offset-md-3">
     {% for p in cv.skills %}
       <div>
-          <h4 class="sub-category mb-0">{{ p.name }}</h4>
-          <p>{{ p.keywords | array_to_sentence_string }}</p>
+        <h4 class="sub-category mb-0">{{ p.name }}</h4>
+        <p>{{ p.keywords | array_to_sentence_string }}</p>
       </div>
     {% endfor %}
   </div>

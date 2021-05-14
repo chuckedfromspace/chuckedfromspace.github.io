@@ -2,31 +2,24 @@
   "basics": {
     "name": "Zhiyao Yin, Ph.D.",
     "label": "Laser spectroscopist, data enthusiast and hobby programmer",
-    "picture": "",
-    "email": "zhiyao.yin.67@gmail.com",
-    "summary": "Research scientist experienced in the fields of plasma physics, combustion and aerodynamics. Skilled in laser diagnostics, spectroscopy, nonlinear optics and machine learning with Python.",
     "location": {
       "city": "Stuttgart",
       "countryCode": "Germany"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "Zhiyao Yin",
-        "url": "https://www.linkedin.com/in/zhiyao-yin-5b5a084a"
-      },
-      {
-        "network": "GitHub",
-        "username": "chuckedfrompsace",
-        "url": "https://github.com/chuckedfromspace"
-      },
-      {
-        "network": "Google Scholar",
-        "username": "Zhiyao Yin",
-        "url": "https://scholar.google.com/citations?hl=de&user=_VHoPw0AAAAJ&view_op=list_works&sortby=pubdate"
-      }
-    ]
+    }
   },
+  "projects": [
+    {
+      "title": "MRPOD",
+      "repo": "mrpod",
+      "rtd": "mrpod",
+      "doi": "10.1017/jfm.2019.762",
+      "summary": "A python module for Multiresolution Proper Orthogonal Decomposition (MRPOD) of multidimensional image time series.",
+      "highlights": [
+        "2D discrete wavelet decomposition and reconstruction",
+        "Principle Component Analysis (PCA) in well-defined frequency domain"
+      ]
+    }
+  ],
   "work": [
     {
       "company": "German Aerospace Center (DLR)",
@@ -279,46 +272,6 @@
     {
       "language": "Japanese",
       "fluency": "(~A1-A2)"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Reading",
-      "keywords": [
-        "Harper Lee",
-        "Kurt Vonnegut",
-        "David Mitchell",
-        "Robert A. Heinlein",
-        "Ted Chiang",
-        "Kazuo Ishiguro",
-        "J.K. Rowling"
-      ]
-    },
-    {
-      "name": "Drawing",
-      "keywords": [
-        "Pen&Ink",
-        "Comics"
-      ]
-    },
-    {
-      "name": "Coding",
-      "keywords": [
-        "Python",
-        "C++",
-        "Web dev",
-        "CFD"
-      ]
-    },
-    {
-      "name": "Outdoors",
-      "keywords": [
-        "Jogging",
-        "Hiking",
-        "Camping",
-        "Sailing",
-        "Skiing"
-      ]
     }
   ]
 }

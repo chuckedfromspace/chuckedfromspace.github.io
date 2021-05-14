@@ -3,12 +3,12 @@
   <div class="w-100 d-block"></div>
   {% for p in cv.awards %}
     <div class="col-1 offset-md-3">
-        <h4 class="sub-category">{{ p.date }}</h4>
+      <h4 class="sub-category">{{ p.date }}</h4>
     </div>
     <div class="col-12 col-md-8">
-        <h4>{{ p.title }}</h4>
-        <div>{{ p.awarder }}</div>
-        <div class="fw-light">{{ p.summary | markdownify }}</div>
+      <h4>{{ p.title }}</h4>
+      <div>{{ p.awarder }}</div>
+      <div class="fw-light">{{ p.summary | markdownify }}</div>
     </div>
   {% endfor %}
   <hr>
