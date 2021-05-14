@@ -3,9 +3,8 @@
 
 // general
 html {
-  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
 }
-
 body {
   font-family: $font-family-sans-serif;
   font-size: 1.1rem;
@@ -53,8 +52,17 @@ img#bio-img {
   color: $gray-700;
 }
 
+// education
+.degree {
+  strong {
+    color: $gray-700;
+  }
+}
 
 // publications
 .authors p{
   margin-bottom: 0;
+  strong {
+    color: $gray-700;
+  }
 }

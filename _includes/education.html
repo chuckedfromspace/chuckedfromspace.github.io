@@ -1,0 +1,19 @@
+<div id="education" class="row mb-3">
+  <div><h3 class="category">Education</h3></div>
+  <div class="w-100 d-block"></div>
+  {% for p in cv.education %}
+    <div class="col-1 offset-md-3">
+        <h4 class="sub-category">{{ p.endDate }}</h4>
+    </div>
+    <div class="col-12 col-md-8">
+        <h4 class="degree">
+          <strong>{{ p.studyType }}</strong><span> in {{ p.area }} </span>
+        </h4>
+        <div>{{ p.institution }}</div>
+        <div class="fw-light">{{ p.loc }}</div>
+        <div class="sub-category">{{ p.thesis-type }}:</div>
+        <div>{{ p.thesis | markdownify }}</div>
+    </div>
+  {% endfor %}
+  <hr>
+</div>
