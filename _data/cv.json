@@ -12,6 +12,8 @@
       "title": "CARSPY",
       "repo": "carspy",
       "docs": "carspy",
+      "external": "https://carspy.herokuapp.com/",
+      "external-title": "Carspy-Webapp",
       "img-url": "https://raw.githubusercontent.com/chuckedfromspace/carspy-dash/main/assets/demo1.gif",
       "summary": "A python module for synthesizing and fitting experimental coherent anti-Stokes Raman (CARS) spectra.",
       "highlights": [
@@ -34,7 +36,7 @@
       "docs": "mrpod",
       "external": "https://doi.org/10.1017/jfm.2019.762",
       "external-title": "Publication",
-      "img-url": "/assets/images/proj-mrpod.png",
+      "img-url": "/assets/images/proj-mrpod.gif",
       "summary": "A python module for Multiresolution Proper Orthogonal Decomposition (MRPOD) of multidimensional image time series.",
       "highlights": [
         "2D discrete wavelet decomposition and reconstruction",
