@@ -2,14 +2,11 @@
   "basics": {
     "name": "Zhiyao Yin, Ph.D.",
     "label": "Laser spectroscopist, data enthusiast and hobby programmer",
-    "location": {
-      "city": "Stuttgart",
-      "countryCode": "Germany"
-    }
+    "location": "Stuttgart, Germany"
   },
   "projects": [
     {
-      "title": "CARSPY",
+      "title": "CARSpy",
       "repo": "carspy",
       "docs": "carspy",
       "external": "https://carspy.herokuapp.com/",
@@ -46,6 +43,46 @@
         "Discrete Wavelet Transform",
         "PCA",
         "Numpy"
+      ]
+    },
+    {
+      "title": "PyLAT",
+      "repo": "pylat",
+      "img-url": "https://raw.githubusercontent.com/chuckedfromspace/pylat/main/assets/pylat_example.png",
+      "summary": "A python module for tomographic reconstruction of 1-D two-color laser absorption with irregularly arranged diode lasers.",
+      "highlights": [
+        "Classical reconstruction methods (e.g.  ART, SIRT, Landweber)",
+        "Tikhonov regularization",
+        "Neural network (e.g., CNN) based reconstruction (planned)"
+      ],
+      "keywords": [
+        "Tomography",
+        "Spectroscopy",
+        "Machine Learning",
+        "Numpy",
+        "Scipy"
+      ]
+    },
+    {
+      "title": "Pythonize",
+      "repo": "pythonize",
+      "external": "https://chuckedfrom.space/pythonize",
+      "external-title": "Jupyter-book",
+      "img-url": "/assets/images/proj-pythonize.gif",
+      "summary": "A blog and knowledge base for data crunching and visualization in Python.",
+      "highlights": [
+        "Tutorial-style blog posts based on executable Jupyter Notebooks",
+        "Central topics include laser spectroscopy, fluid dynamics, machine learning and finance"
+      ],
+      "keywords": [
+        "Jupyter Book",
+        "Matplotlib",
+        "Plotly",
+        "Pandas",
+        "Numpy",
+        "Scipy",
+        "Scikit-Learn",
+        "TensorFlow"
       ]
     }
   ],
