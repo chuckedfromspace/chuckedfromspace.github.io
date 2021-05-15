@@ -8,6 +8,8 @@ html {
 body {
   font-family: $font-family-sans-serif;
   font-size: 1.1rem;
+  // position: relative;
+  // height: 100%;
 }
 
 a {
@@ -15,7 +17,9 @@ a {
 
   &:hover {
     color: shade($accent-color, 25%);
-  }
+  };
+
+
 }
 
 .category {
@@ -32,17 +36,32 @@ nav {
   z-index: 1020;
   background-color: rgba(255, 255, 255, 0.95);
 }
-.container .dropdown-menu {
-  font-size: 1.1rem;
+.container {
+  .dropdown-menu {
+    font-size: 1.1rem;
+  }
+
+  .navbar-brand {
+    font-size: 1.5rem;
+    color: $dark;
+  }
+
+  .nav-link {
+    font-size: 1.5rem;
+    color: $gray-600;
+
+    &.active {
+      color: $accent-color;
+    }
+  }
 }
 
-.container .navbar-brand {
-  font-size: 1.5rem;
-
+.navbar-toggler:focus {
+  box-shadow: none;
 }
-.container .nav-link {
-  font-size: 1.5rem;
 
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
 // landing
