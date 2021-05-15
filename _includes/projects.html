@@ -6,31 +6,32 @@
         <h4 class="sub-category text-lg-end">{{ p.title }}</h4>
     </div>
     <div class="col-12 col-lg-9">
+      <ul class="icons ps-0">
+        <li>
+          <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}/{{ p.repo }}">
+            <i class="fab fa-github" title="Repository"></i>
+          </a>
+        </li>
+        {% if p.docs %}
+          <li>
+            <a target="_blank" href="https://{{ p.docs }}.readthedocs.io/">
+              <i class="fas fa-book" title="Documentation"></i>
+            </a>
+          </li>
+        {% endif %}
+        {% if p.external %}
+          <li>
+            <a target="_blank" href="{{ p.external }}">
+              <i class="fas fa-external-link-square-alt" title="{{ p.external-title }}"></i>
+            </a>
+          </li>
+        {% endif %}
+      </ul>
       <div class="clearfix">
         <a target="_blank" href="{{ p.external }}">
           <img src="{{ p.img-url }}" class="img-thumbnail col-md-6 float-md-end mb-3 ms-md-3" alt="{{ p.title }}">
         </a>
-        <ul class="icons ps-0">
-          <li>
-            <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}/{{ p.repo }}">
-              <i class="fab fa-github" title="Repository"></i>
-            </a>
-          </li>
-          {% if p.docs %}
-            <li>
-              <a target="_blank" href="https://{{ p.docs }}.readthedocs.io/">
-                <i class="fas fa-book" title="Documentation"></i>
-              </a>
-            </li>
-          {% endif %}
-          {% if p.external %}
-            <li>
-              <a target="_blank" href="{{ p.external }}">
-                <i class="fas fa-external-link-square-alt" title="{{ p.external-title }}"></i>
-              </a>
-            </li>
-          {% endif %}
-        </ul>
+
         <div>{{ p.summary }}</div>
         <ul class="mb-0">
           {% for highlight in p.highlights %}
