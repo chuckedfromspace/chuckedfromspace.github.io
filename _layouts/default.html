@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   {% include header.html %}
-  <body>
+  <body data-bs-spy="scroll" data-bs-target="#navbar" data-bs-offset="100" tabindex="0">
     <div class="container">
       {% assign cv = site.data.cv %}
       {% include landing.html %}
@@ -13,7 +13,8 @@
       {% include languages.html %}
       {% include publications.html %}
       {% include about.html %}
-      {% include footer.html %}
     </div>
+    {% include footer.html %}
+    {% include contact.html %}
   </body>
 </html>

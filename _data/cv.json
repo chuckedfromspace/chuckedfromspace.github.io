@@ -35,7 +35,7 @@
       "docs": "mrpod",
       "external": "https://doi.org/10.1017/jfm.2019.762",
       "external-title": "Publication",
-      "img-url": "/assets/images/proj-mrpod.gif",
+      "img-url": "https://raw.githubusercontent.com/chuckedfromspace/chuckedfromspace.github.io/main/assets/images/proj-mrpod.gif",
       "summary": "A python module for Multiresolution Proper Orthogonal Decomposition (MRPOD) of multidimensional image time series.",
       "highlights": [
         "2D discrete wavelet decomposition and reconstruction",
@@ -70,7 +70,7 @@
       "repo": "pythonize",
       "external": "https://chuckedfrom.space/pythonize",
       "external-title": "Jupyter-book",
-      "img-url": "/assets/images/proj-pythonize.gif",
+      "img-url": "https://raw.githubusercontent.com/chuckedfromspace/chuckedfromspace.github.io/main/assets/images/proj-pythonize.gif",
       "summary": "A blog and knowledge base for data crunching and visualization in Python.",
       "highlights": [
         "Tutorial-style blog posts based on executable Jupyter Notebooks",
@@ -94,7 +94,7 @@
       "loc": "Stuttgart, Germany",
       "position": "Research Scientist",
       "startDate": "2014",
-      "endDate": "",
+      "endDate": "Present",
       "summary": "Combustion diagnostics, data analytics:",
       "highlights": [
         "Highspeed laser diagnostics for the quantification of temperature, velocity and species concentrations in next-gen combustion systems",
