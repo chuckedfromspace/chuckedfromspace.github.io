@@ -17,14 +17,16 @@
         "Comprehensive physical models: G-matrix, Expoential Gap Model, Voigt line profiles, T-K convolution",
         "Optional chemical equilibrium (with Cantera)",
         "Optional vibrational and rotational nonequilibrium",
-        "Extendable for various species and CARS configurations"
+        "Extendable for various species and CARS configurations",
+        "Interactive webapp based on Dash-Plotly"
       ],
       "keywords": [
         "CARS",
         "Spectroscopy",
         "Numpy",
         "Scipy",
-        "Cantera"
+        "Cantera",
+        "Dash-Plotly"
       ]
     },
     {
@@ -118,7 +120,7 @@
       "summary": "Plasma physics, plasma-assisted combustion:",
       "highlights": [
         "Kinetics studies of nanosecond discharges",
-        "Project subtask lead: \"Fundamental aspects of plasma-assisted combustion\" (Air Force Office of Scientific Research)"
+        "Project subtask lead: \"Fundamental aspects of plasma-assisted combustion\" (AFOSR)"
       ]
     }
   ],
@@ -218,7 +220,6 @@
         "Python",
         "Matlab",
         "LabView",
-        "OpenFOAM",
         "VSCode",
         "CATIA",
         "DaVis (LaVision)",
@@ -333,7 +334,7 @@
     },
     {
       "language": "French",
-      "fluency": "(~A2-B1)"
+      "fluency": "(~A2)"
     },
     {
       "language": "Japanese",
