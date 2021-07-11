@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 email: zhiyao.yin.67@gmail.com
-description: Personal homepage for Zhiyao Yin, a laser spectroscopist, data enthusiast and hobby programmer.
+description: Personal homepage for Zhiyao Yin, a laser spectroscopist, plasma/combustion scientist, data enthusiast and hobby programmer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 logo: "/assets/images/logo.png"
 # copyright: "Zhiyao Yin"
 author : Zhiyao Yin
-bio    : "Laser spectroscopist, data enthusiast and hobby programmer"
+bio    : "Laser spectroscopist, plasma/combustion scientist, data enthusiast and hobby programmer"
 location : "Stuttgart, Germany"
 github_username: chuckedfromspace
 linkedin_username: zhiyao-yin
