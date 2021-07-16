@@ -57,6 +57,14 @@ nav {
       color: $accent-color;
     }
   }
+
+  i {
+    color: $accent-color;
+
+    &:hover {
+      color: shade($accent-color, 25%);
+    };
+  }
 }
 
 .navbar-toggler:focus {
