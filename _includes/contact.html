@@ -1,4 +1,4 @@
-<div id="contact" class="container fixed-bottom">
+<div id="contact" class="container fixed-bottom dropup">
   <ul id="contact-icons" class="icons ps-0 pt-1 mb-1">
     <li>
       <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}">
@@ -25,5 +25,14 @@
         <i class="fas fa-envelope-square" title="Email"></i>
       </a>
     </li>
+      <li class="dropup">
+        <a href="#" id="contactDownload" data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="0,10">
+          <i class="fas fa-file-download" title="Download CV"></i>
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="contactDownload">
+          <li><a class="dropdown-item" target="_blank" href="/assets/cv/cv_en.pdf">CV in English (PDF)</a></li>
+          <li><a class="dropdown-item" target="_blank" href="/assets/cv/cv_de.pdf">CV in German (PDF)</a></li>
+        </ul>
+      </li>
   </ul>
 </div>
