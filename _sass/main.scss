@@ -29,6 +29,15 @@ a {
   color: $gray-700;
 }
 
+// landing
+div #download-link button {
+    background-color: $accent-color;
+
+  &:hover {
+    background-color: shade($accent-color, 25%);
+  };
+}
+
 // navbar
 nav {
   z-index: 1020;
