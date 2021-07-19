@@ -6,7 +6,7 @@
       <h4 class="sub-category">{{ p.releaseDate }}</h4>
     </div>
     <div class="col-12 col-lg-9">
-      <h4><a href="{{ p.website }}">{{ p.name }}</a></h4>
+      <h4><a href="{{ p.website }}" target="_blank">{{ p.name }}</a></h4>
       <div class="authors">{{ p.authors | markdownify }}</div>
       <div class="fst-italic">{{ p.publisher }}</div>
       <div class="text-capitalize fw-light">{{ p.summary | markdownify }}</div>

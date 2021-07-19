@@ -26,7 +26,9 @@
         "Numpy",
         "Scipy",
         "Cantera",
-        "Dash-Plotly"
+        "Sphinx",
+        "Dash-Plotly",
+        "Bootstrap"
       ]
     },
     {
@@ -44,7 +46,9 @@
       "keywords": [
         "Discrete Wavelet Transform",
         "PCA",
-        "Numpy"
+        "Numpy",
+        "Scipy",
+        "Sphinx"
       ]
     },
     {
@@ -71,12 +75,14 @@
       "external": "https://chuckedfrom.space/pythonize",
       "external-title": "Jupyter-book",
       "img-url": "https://raw.githubusercontent.com/chuckedfromspace/chuckedfromspace.github.io/main/assets/images/proj-pythonize.gif",
-      "summary": "A blog and knowledge base for data crunching and visualization in Python.",
+      "summary": "A knowledge base for data crunching and visualization in Python.",
       "highlights": [
         "Tutorial-style blog posts based on executable Jupyter Notebooks",
         "Central topics include laser spectroscopy, fluid dynamics, machine learning and finance"
       ],
       "keywords": [
+        "Spectroscopy",
+        "Machine Learning",
         "Jupyter Book",
         "Matplotlib",
         "Plotly",
@@ -84,7 +90,8 @@
         "Numpy",
         "Scipy",
         "Scikit-Learn",
-        "TensorFlow"
+        "TensorFlow",
+        "Sphinx"
       ]
     }
   ],
@@ -98,8 +105,10 @@
       "summary": "Combustion diagnostics, data analytics:",
       "highlights": [
         "Highspeed laser diagnostics for the quantification of temperature, velocity and species concentrations in next-gen combustion systems",
-        "Image data processing and feature extraction based on machine learning",
+        "Quantitative spray imaging for particle sizing and velocimetry",
+        "Machine-learning based data analysis, especially for multidimensional image time series (PCA, CNN, Autoencoders)",
         "Project subtask lead: \"Soot Processes and Radiation in Aeronautical Innovative Combustion (SOPRANO)\" (EU2020, Grant Agreement No.690724)",
+        "Spectroscopy algorithm development with Python",
         "Principle Investigator: \"Understanding the turbulent flame dynamics of jet-stabilized gas turbine combustors\" (Helmholtz Postdoc Fellowship, Grant PD-112)"
       ]
     },
@@ -119,7 +128,8 @@
       "endDate": "2013",
       "summary": "Plasma physics, plasma-assisted combustion:",
       "highlights": [
-        "Kinetics studies of nanosecond discharges",
+        "Quantitative laser spectroscopies in nonequilibrium low-temperature plasmas",
+        "Kinetic modeling and applications of plasma-assisted combustion",
         "Project subtask lead: \"Fundamental aspects of plasma-assisted combustion\" (AFOSR)"
       ]
     }
@@ -166,6 +176,12 @@
       "summary": "Prädikat: Gut"
     },
     {
+      "title": "Best Paper",
+      "date": "2017",
+      "awarder": "2017 ASME Turbo Expo",
+      "summary": "DOI: 10.1115/GT2017-65003"
+    },
+    {
       "title": "Helmholtz Postdoc",
       "date": "2014",
       "awarder": "Helmholtz-Gemeinschaft Deutscher Forschungszentren",
@@ -194,10 +210,8 @@
     {
       "name": "Experimental Systems",
       "keywords": [
-        "High-Energy Nd:YAG Lasers",
-        "Dye Lasers",
-        "kHz-Rate Solid-State and Dye Lasers",
-        "kHz-Rate Camera Systems",
+        "(kHz-Rate) High Energy Solid-State and Dye Lasers",
+        "(kHz-Rate, intensified) CCD/CMOS Camera Systems",
         "Nanosecond Pulse Discharges"
       ]
     },
@@ -215,14 +229,22 @@
       ]
     },
     {
-      "name": "Programming/Softwares",
+      "name": "Programming",
       "keywords": [
         "Python",
         "Matlab",
+        "HTML/(S)CSS",
+        "C++"
+      ]
+    },
+    {
+      "name": "Softwares",
+      "keywords": [
+        "LaTeX",
         "LabView",
-        "VSCode",
-        "CATIA",
-        "DaVis (LaVision)"
+        "Catia",
+        "Origin",
+        "DaVis"
       ]
     },
     {
@@ -239,11 +261,20 @@
         "Plotly/Dash",
         "Django",
         "Jekyll",
-        "Sphinx"
+        "Sphinx",
+        "Bootstrap"
       ]
     }
   ],
   "publications": [
+    {
+      "name": "Experimental investigations of superheated and supercritical injections of liquid fuels",
+      "publisher": "Journal of Engineering for Gas Turbines and Power",
+      "releaseDate": "2021",
+      "authors": "**Z. Yin**, P. Kutne, J. Eichhorn, W. Meier",
+      "website": "https://doi.org/10.1115/1.4049863",
+      "summary": "Spray shadowgraphy under superheated and supercritical injection conditions"
+    },
     {
       "name": "Time-frequency localization of intermittent dynamics in a bistable turbulent swirl flame",
       "publisher": "Journal of Fluid Mechanics",
@@ -325,15 +356,15 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Fluent (C2+)"
     },
     {
       "language": "German",
-      "fluency": "telc C1"
+      "fluency": "Fluent (C1+)"
     },
     {
       "language": "French",
-      "fluency": "(~A2)"
+      "fluency": "(~A2-B1)"
     },
     {
       "language": "Japanese",
