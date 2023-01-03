@@ -9,7 +9,7 @@
       "title": "CARSpy",
       "repo": "carspy",
       "docs": "carspy",
-      "external": "https://carspy.herokuapp.com/",
+      "external": "https://carspy.onrender.com/",
       "external-title": "Carspy-Webapp",
       "img-url": "https://raw.githubusercontent.com/chuckedfromspace/carspy-dash/main/assets/demo1.gif",
       "summary": "A python module for synthesizing and fitting experimental coherent anti-Stokes Raman (CARS) spectra.",
